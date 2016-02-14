@@ -1,0 +1,1 @@
+webpackJsonp([17],{137:function(o,e){o.exports="<div><h2>User yo</h2><router-view></router-view></div>"},176:function(o,e,t){var p,r;r=t(137),o.exports=p||{},o.exports.__esModule&&(o.exports=o.exports["default"]),r&&(("function"==typeof o.exports?o.exports.options||(o.exports.options={}):o.exports).template=r)}});

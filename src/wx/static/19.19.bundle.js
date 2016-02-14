@@ -1,0 +1,1 @@
+webpackJsonp([19],{129:function(e,o){e.exports="<div>archive with id: {{$route.params.messageId}}</div>"},168:function(e,o,t){var p,s;s=t(129),e.exports=p||{},e.exports.__esModule&&(e.exports=e.exports["default"]),s&&(("function"==typeof e.exports?e.exports.options||(e.exports.options={}):e.exports).template=s)}});
